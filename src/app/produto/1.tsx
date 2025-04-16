@@ -1,5 +1,5 @@
 import { Image, Text, TouchableOpacity, View } from "react-native";
-import { styles } from "../home/prod"
+import { styles } from "./prod"
 
 export default function Produto() {
     return (
